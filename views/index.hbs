@@ -1,0 +1,15 @@
+<h1>{{title}}</h1>
+<p>Welcome to {{title}}</p>
+
+rout
+<a href="/users/test_user"> >>> </a>
+<script>
+
+    let str = "{{body}}";
+    while (~str.indexOf('&quot;')) {
+        str = str.replace('&quot;', '"');
+    }
+    console.log(str)
+
+    console.log(JSON.parse(str))
+</script>
