@@ -1,4 +1,4 @@
-# Qiwi-WEX exchange. VueJS rich client
+# Express js starter ( middlewares, postgress )
 
 ## Installing / Starting
 
